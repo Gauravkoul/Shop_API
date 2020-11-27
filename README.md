@@ -1,0 +1,2 @@
+# Shop_API
+This is a RESTful API which is developed by using Node_JS, Express and Mongo_db. In this there are some routes or urls, Such as Products and Orders in which we can add new products, modify existing products and we can also delete the created one. In Orders we can create new order, add the quantity of order and can also delete it. I also added a Login and Signup routes or urls for the authentication which can be done by using the tokens.
